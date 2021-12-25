@@ -1,13 +1,4 @@
-Welcome to my first project.
-This I created while learning Git.
 
-Editted to check the changes.
-
-Chicken Dry
-Burger
-Himalaya
-
-Thank you
 
 final copy
 
